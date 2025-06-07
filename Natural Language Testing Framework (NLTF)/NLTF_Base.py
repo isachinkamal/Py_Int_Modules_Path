@@ -1,4 +1,4 @@
-''' python
+
 import re
 import string
 from typing import List, Dict, Tuple, Any, Callable
@@ -356,4 +356,3 @@ if __name__ == "__main__":
         method='jaccard'
     )
     print(f"\nText similarity: {similarity:.2f}")
-'''
