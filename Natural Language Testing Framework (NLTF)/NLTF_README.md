@@ -33,7 +33,7 @@ A modular, extensible Natural Language Processing (NLP) toolkit written in Pytho
 
 ## 🛠️ Setup
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/nlp-toolkit.git
@@ -41,8 +41,8 @@ cd nlp-toolkit
 
 2. Create a Virtual Environment (Recommended)
 
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install Dependencies
 
