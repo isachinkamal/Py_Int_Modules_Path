@@ -38,6 +38,7 @@ A modular, extensible Natural Language Processing (NLP) toolkit written in Pytho
 ```bash
 git clone https://github.com/yourusername/nlp-toolkit.git
 cd nlp-toolkit
+```
 
 2. Create a Virtual Environment (Recommended)
 
