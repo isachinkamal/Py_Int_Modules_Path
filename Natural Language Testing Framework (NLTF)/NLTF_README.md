@@ -41,10 +41,10 @@ cd nlp-toolkit
 ```
 
 2. Create a Virtual Environment (Recommended)
-
+```python
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+```
 3. Install Dependencies
 
 pip install -r requirements.txt
