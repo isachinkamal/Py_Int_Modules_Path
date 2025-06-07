@@ -149,10 +149,6 @@ nlp_toolkit/
 4. Push to the branch: `git push origin feature/new-feature`
 5. Open a Pull Request
 
-## 🛡 License
-
-This project is licensed under the MIT License.
-
 ## 🌟 Acknowledgements
 
 - [NLTK](https://www.nltk.org/)
@@ -161,4 +157,4 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-Created by [Your Name] - feel free to reach out via GitHub issues or pull requests.
+Created by Sachin Kamal - feel free to reach out via GitHub issues or pull requests.
