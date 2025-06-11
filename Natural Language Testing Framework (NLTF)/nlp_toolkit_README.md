@@ -3,7 +3,7 @@
 
 A modular, extensible Natural Language Processing (NLP) toolkit written in Python, designed to help you **preprocess text**, **extract features**, **evaluate models**, and **run test suites** with ease.
 
-## 📦 Features
+## 📦 Key Features
 
 - **Preprocessing Pipeline**
   - Lowercasing, punctuation & number removal
