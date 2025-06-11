@@ -7,7 +7,7 @@ Date: 2025-06-07
 Description:
     - Preprocessing tools using NLTK
     - Feature extraction: BoW, TF-IDF, embeddings
-    - Testing framework for NLP models
+    - Testing framework for the NLP models
     - Evaluation metrics and text similarity functions
 """
 
