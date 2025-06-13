@@ -130,7 +130,7 @@ sim = NLEvaluator.calculate_similarity("The dog barks", "A dog is barking", meth
 print(f"Jaccard Similarity: {sim:.2f}")
 ```
 
-## 📁 File Structure
+## 📁 Basic File Structure
 
 ```
 nlp_toolkit/
