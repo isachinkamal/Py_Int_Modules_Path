@@ -4,7 +4,7 @@
 NLP Toolkit: Preprocessing, Feature Extraction, Testing, & Evaluation
 Author: Sachin Kamal
 Date: 2025-06-07
-Purpose: Toolkit General Outline
+Purpose:  Toolkit General Outline
 Description:
     - Preprocessing tools using NLTK
     - Feature extraction: BoW, TF-IDF, embeddings
