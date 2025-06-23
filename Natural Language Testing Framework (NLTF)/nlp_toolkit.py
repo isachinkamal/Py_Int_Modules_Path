@@ -36,7 +36,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 
-# --------------------- Preprocessing ---------------------
+# --------------------- Preprocessing ----------------------
 
 class NLPreprocessor:
     """
