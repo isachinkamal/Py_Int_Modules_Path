@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-NLP Toolkit: Preprocessing, Feature Extraction, Testing, & Evaluation
+NLP Toolkit: Preprocessing, Feature Extraction, Testing, & Evaluations
 Author: Sachin Kamal
 Date: 2025-06-07
 Purpose:  Toolkit General Outline
