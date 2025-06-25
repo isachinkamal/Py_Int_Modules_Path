@@ -249,7 +249,7 @@ class NLEvaluator:
             raise ValueError(f"Unsupported method: {method}")
 
 
-# --------------------- Example Usage ---------------------
+# --------------------- Sample Usage ---------------------
 
 if __name__ == "__main__":
     def example_sentiment_model(text: str) -> str:
