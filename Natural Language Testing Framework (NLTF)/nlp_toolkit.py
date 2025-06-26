@@ -7,7 +7,7 @@ Date: 2025-06-07
 Purpose:  Toolkit General Outline
 Description:
     - Preprocessing tools using NLTK
-    - Feature extraction: BoW, TF-IDF, embeddings
+    - Feature extraction: BoW, TF-IDF, embedding
     - Testing framework for the NLP models
     - Evaluation metrics and text similarity functions
 """
